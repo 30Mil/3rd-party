@@ -10,7 +10,7 @@
         <Summary>A personal finance manager for Mac, Windows and Linux</Summary>
         <Description>A personal finance manager for Mac, Windows and Linux</Description>
         <License>Custom</License>
-        <Archive sha1sum="2bfe6339817ce03993e72e8a89fd7368d60ff993" type="binary">http://infinitekind.com/stabledl/2017.2_1597/moneydance_linux_amd64.deb</Archive>
+        <Archive sha1sum="4da3395bde52255deea5a39c5e6ccb92" type="binary">http://infinitekind.com/stabledl/current/moneydance_linux_amd64.deb</Archive>
 
         <BuildDependencies>
             <Dependency>binutils</Dependency>
